@@ -1,7 +1,7 @@
 {
   "name": "express-simple-basic-auth",
   "author": "Iddan Aharonson <maiL@aniddan.com> (aniddan.com)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/basic-auth.js",
   "dependencies": {
     "atob": "^2.0.3"
