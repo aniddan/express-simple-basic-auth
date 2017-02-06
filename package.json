@@ -1,0 +1,13 @@
+{
+  "name": "express-simple-basic-auth",
+  "author": {
+    "email": "maiL@aniddan.com",
+    "name": "Iddan Aharonson",
+    "url": "aniddan.com"
+  },
+  "version": "1.0.0",
+  "main": "lib/basic-auth.js",
+  "dependencies": {
+    "atob": "^2.0.3"
+  }
+}
