@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "main": "lib/basic-auth.js",
   "dependencies": {
-    "atob": "^2.0.3"
+    "atob": "^2.1.0"
   },
   "description": "Simple Basic authorization middleware for Express",
   "repository": "git@github.com:aniddan/express-simple-basic-auth.git",
